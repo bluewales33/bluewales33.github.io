@@ -31,6 +31,6 @@ Sql Codes: [INSURANCE policy Sql queries](https://github.com/bluewales33/bluewal
 **Technology Used:** Sql Server
 
 **Sql project Overview:**
-![INSURANCE](https://github.com/bluewales33/bluewales33.github.io/blob/main/INSURANCE.png)
+![INSURANCE](INSURANCE.png)
 
 
