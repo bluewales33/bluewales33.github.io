@@ -172,3 +172,17 @@ Sql Codes: [Employee Data](https://github.com/bluewales33/bluewales33.github.io/
 
 **Jupyter Notebook project Overview:**
 ![DogRating](DogRating.png)
+
+# Project 10
+**Title:** [Loan Data from Prosper](https://github.com/bluewales33/bluewales33.github.io/blob/main/Loan%20Data%20from%20Prosper.ipynb)
+
+**Tools Used:** Python - Jupyter notebook (Pandas, Matplotlib, Seaborn)
+
+**Project Descriptions:** This project, titled "Loan Data from Prosper" involves analyzing a dataset from Prosper, a peer-to-peer lending platform. The dataset comprises 113,937 loans and 81 variables, including details such as loan amounts, borrower interest rates, current loan statuses, borrower incomes, and various other attributes related to the loans and their borrowers.
+
+**Results and Findings:** 
+
+The focus of this analysis is on understanding the factors that contribute to successful loan repayment (LoanStatus). The findings indicate that higher StatedMonthlyIncome and lower BorrowerRate positively influence loan repayment. Additionally, employed individuals, particularly those with verifiable employment status, are more likely to complete their loan payments compared to unemployed or retired individuals. The analysis also confirms that high interest rates and not owning a home negatively impact loan repayment. Borrowers who own a home and have lower interest rates are more likely to complete their payments, even with higher loan amounts, especially when they have strong recommendations. There is also a partial negative correlation observed between the original loan amount and the borrower’s interest rate, where higher loan amounts are associated with lower interest rates.
+
+**Jupyter Notebook project Overview:**
+![Loan](Loan.png)
