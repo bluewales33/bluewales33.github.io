@@ -163,7 +163,7 @@ Sql Codes: [Employee Data](https://github.com/bluewales33/bluewales33.github.io/
 **Jupyter Notebook project Overview:**
 ![Medical Appointment](Medical1.png)
 
-# Project 8
+# Project 9
 **Title:** [WeRateDogs datasets,](https://github.com/bluewales33/bluewales33.github.io/blob/main/Twitter%20DogRating.ipynb)
 
 **Tools Used:** Python - Jupyter notebook (Pandas, Matplotlib, Seaborn)
