@@ -162,3 +162,13 @@ Sql Codes: [Employee Data](https://github.com/bluewales33/bluewales33.github.io/
 
 **Jupyter Notebook project Overview:**
 ![Medical Appointment](Medical1.png)
+
+# Project 8
+**Title:** [WeRateDogs datasets,](https://github.com/bluewales33/bluewales33.github.io/blob/main/Twitter%20DogRating.ipynb)
+
+**Tools Used:** Python - Jupyter notebook (Pandas, Matplotlib, Seaborn)
+
+**Project Descriptions:** This project analysed WeRateDogs dataset. The dataset was fetched from 3 different sources which includes web scraping, csv, and json file. These 3 datasets were merged, cleaned and EDA was done to reveal the hidding insights.
+
+**Jupyter Notebook project Overview:**
+![DogRating](DogRating.png)
