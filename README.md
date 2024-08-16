@@ -186,3 +186,32 @@ The focus of this analysis is on understanding the factors that contribute to su
 
 **Jupyter Notebook project Overview:**
 ![Loan](Loan.png)
+
+
+# Project 10
+**Title:** [Pizza Sales data](https://github.com/bluewales33/bluewales33.github.io/blob/main/Pizza%20Sales%20Forecasting.ipynb)
+
+**Tools Used:** Python - Jupyter notebook (Pandas, Matplotlib, Seaborn, Machine Learning, Deep Learning)
+
+**Project Descriptions:** The primary objective of this project is to create a predictive model for forecasting pizza sales by considering various influencing factors. The project entails analyzing historical sales data and implementing regression models, machine learning models, deep learning models, and hybrid models to accurately predict future sales. Each model's performance was assessed using various metrics, and the best-performing model was deployed..
+
+**Results and Findings:** 
+
+The findings from the "Pizza Sales Forecasting" project can be summarized as follows:
+
+- Model Performance: Multiple models were tested, including linear regression, ridge regression, XGBoost, random forest, support vector regression (SVR), gradient boosting, recurrent neural networks (RNN), multilayer perceptron (MLP), and a hybrid model combining different approaches.
+The performance of each model was evaluated using metrics such as Mean Absolute Error (MAE) and R-squared (R²).
+
+- Best Performing Model: The hybrid model, which combined predictions from multiple models (such as gradient boosting and MLP), showed the best performance in terms of both MAE and R².
+The hybrid model had the lowest MAE (0.77) and a high R² (0.90), indicating a strong fit to the actual sales data.
+
+- Model Rankings: The models were ranked based on their MAE and R² scores.
+The hybrid model outperformed other models, followed by random forest, gradient boosting, and XGBoost.
+Traditional regression models like linear regression and ridge regression performed relatively worse compared to the more complex machine learning and deep learning models.
+Deployment:
+
+Based on the evaluation, the hybrid model, being the most accurate, was selected for deployment to predict future pizza sales.
+These findings suggest that more sophisticated models, especially hybrid models combining the strengths of multiple algorithms, provide better accuracy in forecasting pizza sales compared to simpler models.
+
+**Jupyter Notebook project Overview:**
+![Pizza](Pizza.png)
