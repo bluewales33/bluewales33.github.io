@@ -188,7 +188,7 @@ The focus of this analysis is on understanding the factors that contribute to su
 ![Loan](Loan.png)
 
 
-# Project 10
+# Project 11
 **Title:** [Pizza Sales data](https://github.com/bluewales33/bluewales33.github.io/blob/main/Pizza%20Sales%20Forecasting.ipynb)
 
 **Tools Used:** Python - Jupyter notebook (Pandas, Matplotlib, Seaborn, Machine Learning, Deep Learning)
